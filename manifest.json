@@ -11,7 +11,7 @@
       "protocol": "BotFrameworkV3",
       "description": "Default endpoint for GuardrailsBot",
       "endpointUrl": "https://<your-app-name>.azurewebsites.net/api/messages",
-      "msAppId": "<Your-GuardrailsBot-AppId>"
+      "msAppId": "153db421-29bb-4020-8b73-62d4c433c006"
     }
   ],
   "activities": {
