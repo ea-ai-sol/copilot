@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schemas.botframework.com/schemas/skills/v2.2/skill-manifest.json",
+  "$id": "https://guardrails/manifest/manifest.json",
+  "name": "GuardrailsBot",
+  "version": "1.0",
+  "description": "Provides guardrail-related Q&A services.",
+  "publisherName": "Your Organization",
+  "endpoints": [
+    {
+      "name": "default",
+      "protocol": "BotFrameworkV3",
+      "description": "Default endpoint for GuardrailsBot",
+      "endpointUrl": "https://<your-app-name>.azurewebsites.net/api/messages",
+      "msAppId": "<Your-GuardrailsBot-AppId>"
+    }
+  ],
+  "activities": {
+    "message": {
+      "type": "message",
+      "description": "Handles incoming messages"
+    }
+  }
+}
