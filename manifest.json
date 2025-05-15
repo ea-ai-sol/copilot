@@ -1,6 +1,6 @@
 {
   "$schema": "https://schemas.botframework.com/schemas/skills/v2.2/skill-manifest.json",
-  "$id": "https://guardrails/manifest/manifest.json",
+  "$id": "https://ea-ai-sol.github.io/copilot/manifest.json",
   "name": "GuardrailsBot",
   "version": "1.0",
   "description": "Provides guardrail-related Q&A services.",
