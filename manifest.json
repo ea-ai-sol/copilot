@@ -10,7 +10,7 @@
       "name": "default",
       "protocol": "BotFrameworkV3",
       "description": "Default endpoint for GuardrailsBot",
-      "endpointUrl": "https://<your-app-name>.azurewebsites.net/api/messages",
+      "endpointUrl": "https://b1009fd39b05eb16b66c6ea238c496.c9.environment.api.powerplatform.com/copilotstudio/dataverse-backed/authenticated/bots/cr3e5_guardrailsQA/conversations?api-version=2022-03-01-preview",
       "msAppId": "153db421-29bb-4020-8b73-62d4c433c006"
     }
   ],
